@@ -8,7 +8,7 @@ import random
 
 # ── Page config ────────────────────────────────────────────────────────────────
 st.set_page_config(
-    page_title="Calanques Flow·Marseille",
+    page_title="Calanques Flow - Marseille",
     page_icon="🌊",
     layout="wide",
     initial_sidebar_state="expanded",
